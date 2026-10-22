@@ -163,13 +163,6 @@ Calculados sobre toda a base (2018 e 2019), em reais:
 - **Concentração geográfica:** o Distrito Federal concentra cerca de 52% da despesa empenhada (R$ 809,4 mi), seguido de SP (R$ 172,4 mi), RJ (R$ 97,9 mi) e MG (R$ 91,4 mi).
 - **Despesa empenhada cresceu cerca de 10%** de 2018 para 2019.
 
-## Próximos passos (ideias de evolução)
-
-- Criar medidas de variação percentual contra o ano anterior
-- Analisar a execução por mês e identificar a sazonalidade
-- Detalhar quais grupos de despesa mais contribuem para o gargalo de liquidação
-- Publicar na web com link interativo
-
 ## Ferramentas
 
 Power BI Desktop · Power Query (M) · DAX · Excel
@@ -182,4 +175,4 @@ Power BI Desktop · Power Query (M) · DAX · Excel
 
 ## Autor
 
-**Rayner** (complete com seu nome completo) — [LinkedIn](COLE-AQUI-O-LINK-DO-SEU-PERFIL)
+**Rayner Carvalho** (complete com seu nome completo) — [LinkedIn](https://www.linkedin.com/in/raynercarvalho/)
