@@ -175,4 +175,4 @@ Power BI Desktop · Power Query (M) · DAX · Excel
 
 ## Autor
 
-**Rayner Carvalho** — [LinkedIn](https://www.linkedin.com/in/raynercarvalho/)
+**Rayner Carvalho** — (https://www.linkedin.com/in/raynercarvalho/)
