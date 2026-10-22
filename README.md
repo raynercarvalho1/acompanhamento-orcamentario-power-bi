@@ -2,7 +2,7 @@
 
 Painel em Power BI para acompanhar a execução do orçamento de um órgão público em dois exercícios (2018 e 2019): da dotação autorizada até a despesa empenhada, liquidada e paga, com visão por grupo de despesa, ação orçamentária, unidade e localização geográfica.
 
-> **Projeto de estudo.** Desenvolvido durante um curso de Power BI com foco em gestão pública (Painel Aprimoramento da Gestão, ENAP), usando a base de dados fornecida pelo curso. O objetivo foi praticar o ciclo completo: combinar fontes, tratar dados, modelar, criar medidas DAX (inclusive de inteligência de tempo) e construir um painel navegável.
+> Usando uma base de dados publica. O objetivo do painel foi: combinar fontes, tratar dados, modelar, criar medidas DAX (inclusive de inteligência de tempo) e construir um painel navegável.
 
 <!-- Coloque aqui os prints: ![Acompanhamento Orçamentário](imagens/acompanhamento.png) -->
 
