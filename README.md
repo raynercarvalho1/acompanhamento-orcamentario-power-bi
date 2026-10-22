@@ -4,7 +4,9 @@ Painel em Power BI para acompanhar a execução do orçamento de um órgão púb
 
 > Usando uma base de dados publica. O objetivo do painel foi: combinar fontes, tratar dados, modelar, criar medidas DAX (inclusive de inteligência de tempo) e construir um painel navegável.
 
-<!-- Coloque aqui os prints: ![Acompanhamento Orçamentário](imagens/acompanhamento.png) -->
+![Painel de acompanhamento orçamentário - tela 1](imagens/tela1.png)
+
+![Painel de acompanhamento orçamentário - tela 2](imagens/tela2.png)
 
 ## Perguntas que o painel responde
 
